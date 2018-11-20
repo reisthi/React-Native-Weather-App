@@ -1,4 +1,4 @@
-# Weather App
+# React Native Weather App
 
 Simple weather app to display results from an API call..
 
